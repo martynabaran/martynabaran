@@ -6,5 +6,5 @@
 - [my github page](https://martynabaran.github.io/)
 - 😄 Pronouns: she\her
 - [master repository of my fork](https://github.com/MoonInTheRiver/NeuralSVB)
-- [article my fork is based on](
+- [article my fork is based on](https://paperswithcode.com/paper/learning-the-beauty-in-songs-neural-singing)
 
