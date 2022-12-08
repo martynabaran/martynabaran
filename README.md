@@ -5,4 +5,6 @@
 - 📫 How to reach me: my gmail: baran.martyna04@gmail.com
 - [my github page](https://martynabaran.github.io/)
 - 😄 Pronouns: she\her
+- [master repository of my fork](https://github.com/MoonInTheRiver/NeuralSVB)
+- [article my fork is based on](
 
